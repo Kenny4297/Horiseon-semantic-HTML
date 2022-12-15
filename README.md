@@ -3,22 +3,20 @@
  ## What is this project?
  This project is the home page for the infamous Horiseon, a team of people designed to make sure your business website has the correct SEO qualifications, not only to be seen on Google, but to avoid a lawsuit.
 
- This site includes the following content:
- * Search Engine Optimization
- * Online Reputation Management
- * Social Media Marketing
+## This project required a few tasks to complete:
+* Changing any non-SEO HTML elements to SEO HTML elements
+* Making sure the elements follow a logical structure independent of styling and positioning
+* Cleaning up any repetitive code in CSS
+* Creating accessible alt attributes for all image elements
+* Making sure all the heading attributes fall in sequential order
 
- 
+
  The following is a link to the GitPages site:
- [Horiseon Final](https://kenny4297.github.io/semantic-html/).
+ [Horiseon Final](https://kenny4297.github.io/semantic-html/)
 
  The following is a screen shot of the final product:
- (Copy when done!)
-
-<!-- ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png) -->
+ [Horiseon Screenshot](./assets/images/Horiseon-semantics.png)
 
 
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
 
