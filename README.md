@@ -11,11 +11,12 @@
 * Making sure all the heading attributes fall in sequential order
 
 
- The following is a link to the GitPages site:
+The following is a link to the GitPages site:
  [Horiseon Final](https://kenny4297.github.io/semantic-html/)
 
- The following is a screen shot of the final product:
- [Horiseon Screenshot](./assets/images/Horiseon-semantics.png)
+The following is a screen shot of the final product:
+![Screenshot of the Horiseon Web Page](./assets/images/Horiseon-Screenshot.png)
+
 
 
 
